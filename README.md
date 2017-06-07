@@ -106,6 +106,7 @@ My go to list of all the tools and resources I use on a regular basis
 ### Navigation
 *   [Headroom](http://wicky.nillia.ms/headroom.js/) JS widget to react to the user's scroll.
 *   [Pushy](https://www.christopheryee.ca/pushy/) Responsive off-canvas navigation menu
+*   [barbajs](http://barbajs.org/index.html) Create badass, fluid and smooth transition between pages.
 
 ### Parallax
 *   [Parallax.js](http://matthew.wagerfield.com/parallax/) Simple, lightweight Parallax Engine
