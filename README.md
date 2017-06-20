@@ -1,6 +1,7 @@
 My go to list of all the tools and resources I use on a regular basis
 ## Resources
 *   [wwwhere.io](http://wwwhere.io/) - A curated list of tools and resources for people who make websites
+*   [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ## Architecture
 
