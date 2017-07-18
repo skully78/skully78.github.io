@@ -51,6 +51,7 @@ My go to list of all the tools and resources I use on a regular basis
 ### Accessibility
 *   [Check color contrast online](http://www.checkmycolours.com/) Check foreground and background color combinations of all DOM elements. [online]
 *   [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb) Accessibility audit and element properties. [extension]
+*   [The accessibility cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
 
 ### Best practices
 *   [broken-link-checker](https://www.npmjs.com/package/broken-link-checker) Find broken links, missing images. [Node]
