@@ -64,6 +64,7 @@ My go to list of all the tools and resources I use on a regular basis
 *   [CSS Stats](http://cssstats.com/) Webapp to visualize various stats about your css.
 
 ### Image 0ptimisation
+*   [images](https://images.guide/)
 *   [ImageOptim](https://imageoptim.com/mac) OSX - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
 *   [Jpeg.io](https://www.jpeg.io/) Convert any major image format into a highly optimized JPEG.
 *   [Tiny PNG](https://tinypng.com/) Smart PNG and JPEG compression.
