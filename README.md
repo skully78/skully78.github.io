@@ -45,6 +45,14 @@ My go to list of all the tools and resources I use on a regular basis
 *   [Namecheap](https://www.namecheap.com/) Namecheap is a Domain Registrar and Web Host.
 *   [Google Domains](https://domains.google/#/) Find domains, create a site, custom email
 
+### Gulp plugins
+gulp-sequence — run a series of gulp tasks in a specific order
+gulp-plumber — error handling which prevents Gulp stopping on failures
+gulp-size — displays file sizes and savings
+gulp-nodemon — uses nodemon to automatically restart Node.js applications when changes occur.
+gulp-util — utility functions including logging and color coding. .pipe(devBuild ? gutil.noop() : htmlclean())
+css-mqpacker — pack multiple references to the same CSS media query into a single rule.
+gulp-strip-debug - Remove all console and debugging statements 
 
 ## Testing & optimisation
 
